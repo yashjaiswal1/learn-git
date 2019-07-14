@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Just a harmless test txt file
+=======
+abcd
+>>>>>>> 4f2aae66f05525b18084072a77de58ca2734a428
